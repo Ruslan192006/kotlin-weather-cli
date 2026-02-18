@@ -19,6 +19,3 @@
 kotlinc src/Main.kt -include-runtime -d WeatherApp.jar
 java -jar WeatherApp.jar
 ```
-
-## Автор
-Учебный проект для демонстрации навыков Kotlin
